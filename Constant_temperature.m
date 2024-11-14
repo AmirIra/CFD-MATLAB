@@ -35,3 +35,7 @@ hold on ;
 plot(Q_transfer_e) ;
 plot(Q_transfer_w) ;
 title('heat flux') ;
+
+
+
+
